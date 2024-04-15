@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/PlacePickerReact/static/css/main.37ac8731.css",
+    "main.js": "/PlacePickerReact/static/js/main.cc8785f3.js",
+    "static/js/453.cf519296.chunk.js": "/PlacePickerReact/static/js/453.cf519296.chunk.js",
+    "static/media/rainforest.jpg": "/PlacePickerReact/static/media/rainforest.1459e6a42f7a6a3e86e4.jpg",
+    "static/media/amazon-river.jpg": "/PlacePickerReact/static/media/amazon-river.86307e75fa33fe0a773c.jpg",
+    "static/media/parisian-streets.jpg": "/PlacePickerReact/static/media/parisian-streets.f86604e67d5e5b05b612.jpg",
+    "static/media/ruins.jpg": "/PlacePickerReact/static/media/ruins.d8227a33b0e2bf8797f2.jpg",
+    "static/media/venetian-canals.jpg": "/PlacePickerReact/static/media/venetian-canals.6e23bdd6216b9ac5323c.jpg",
+    "static/media/caribbean-beach.jpg": "/PlacePickerReact/static/media/caribbean-beach.8b79fdd71fa53667ce4d.jpg",
+    "static/media/great-barrier-reef.jpg": "/PlacePickerReact/static/media/great-barrier-reef.f89e37aa06bc652495c5.jpg",
+    "static/media/forest-waterfall.jpg": "/PlacePickerReact/static/media/forest-waterfall.a6980b141a8c951727ab.jpg",
+    "static/media/kerala-backwaters.jpg": "/PlacePickerReact/static/media/kerala-backwaters.748b7009c573bff71108.jpg",
+    "static/media/majestic-mountains.jpg": "/PlacePickerReact/static/media/majestic-mountains.117a8a6310100a3ada5e.jpg",
+    "static/media/victoria-falls.jpg": "/PlacePickerReact/static/media/victoria-falls.0d9ca7db6899d3799b7a.jpg",
+    "static/media/machu-picchu.jpg": "/PlacePickerReact/static/media/machu-picchu.60c9888a1770a0850eac.jpg",
+    "static/media/taj-mahal.jpg": "/PlacePickerReact/static/media/taj-mahal.05c3fbea90b2dcf0510b.jpg",
+    "static/media/african-savanna.jpg": "/PlacePickerReact/static/media/african-savanna.e32e663e97b627db0711.jpg",
+    "static/media/grand-canyon.jpg": "/PlacePickerReact/static/media/grand-canyon.7865d053566b224f8bd1.jpg",
+    "static/media/northern-lights.jpg": "/PlacePickerReact/static/media/northern-lights.1b849a595aca6000ca68.jpg",
+    "static/media/japanese-temple.jpg": "/PlacePickerReact/static/media/japanese-temple.1a0588dceaf25a77a947.jpg",
+    "static/media/desert-dunes.jpg": "/PlacePickerReact/static/media/desert-dunes.d9fb26d7117f8071c4de.jpg",
+    "static/media/logo.png": "/PlacePickerReact/static/media/logo.ce5c7afc5810ff065739.png",
+    "index.html": "/PlacePickerReact/index.html",
+    "main.37ac8731.css.map": "/PlacePickerReact/static/css/main.37ac8731.css.map",
+    "main.cc8785f3.js.map": "/PlacePickerReact/static/js/main.cc8785f3.js.map",
+    "453.cf519296.chunk.js.map": "/PlacePickerReact/static/js/453.cf519296.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ac8731.css",
+    "static/js/main.cc8785f3.js"
+  ]
+}
